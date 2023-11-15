@@ -1,0 +1,7 @@
+grpcio==1.40.0
+pytorch_lightning==1.9.5
+transformers
+datasets
+torch
+scipy
+scikit-learn
